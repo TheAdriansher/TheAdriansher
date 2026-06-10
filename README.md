@@ -77,7 +77,7 @@ Trabajo en el lado defensivo de la ciberseguridad con experiencia práctica en d
 - Documentar cada escenario: ataque → alerta → análisis → write-up
 - Preparación práctica para certificaciones Blue Team
 
-📂 **[Ver el proyecto completo →](https://github.com/TheAdriansher/snoopy-soc-lab)**
+📂 **[Ver el proyecto completo →](https://github.com/TheAdriansher/blue-team-lab)**
 
 ---
 
@@ -85,7 +85,7 @@ Trabajo en el lado defensivo de la ciberseguridad con experiencia práctica en d
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
-| 🔬 **[snoopy-soc-lab](https://github.com/TheAdriansher/snoopy-soc-lab)** | Home SOC Lab — detección, análisis forense, threat hunting y write-ups por escenario | `wazuh` `ubuntu-server` `kali` `mitre` |
+| 🔬 **[blue-team-lab](https://github.com/TheAdriansher/blue-team-lab)** | Home SOC Lab — detección, análisis forense, threat hunting y write-ups por escenario | `wazuh` `ubuntu-server` `kali` `mitre` |
 | 📓 **[HTB_Vault](https://github.com/TheAdriansher/HTB_Vault)** | Write-ups de máquinas, Sherlocks y challenges de HackTheBox | `htb` `ctf` `forensics` `pentesting` |
 
 ---
